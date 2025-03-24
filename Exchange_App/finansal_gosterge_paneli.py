@@ -320,7 +320,7 @@ def main():
         # Uyarı Metni (Footer'ın üstüne eklendi)
         st.markdown("""
             <div class="warning-box">
-                <p><strong>Yasal Uyarı:</strong> Bu Finansal Gösterge Paneli, "**** Yazılım ve Teknoloji Hizmetleri A.Ş. tarafından sağlanmaktadır. Burada yer alan döviz kurları, altın, BIST 100 ve diğer finansal veriler 15 dakika gecikmelidir ve yalnızca bilgilendirme amaçlıdır. Yatırım kararlarınızı bu verilere dayanarak almadan önce, bir finansal danışmana başvurmanız önerilir. Verilerin doğruluğu, güncelliği ve eksiksizliği konusunda garanti verilmemektedir; oluşabilecek zararlardan ****** Yazılım ve Teknoloji Hizmetleri A.Ş. sorumlu tutulamaz.</p>
+                <p><strong>**Yasal Uyarı:** Bu uygulamada sunulan finansal veriler yalnızca bilgilendirme amaçlıdır ve kesinlik garanti edilmez. Döviz kurları, altın, BIST 100 ve diğer veriler gecikmeli olabilir. Yatırım kararlarınızı yalnızca bu verilere dayanarak almayın, bir finansal danışmana danışmanız önerilir. Oluşabilecek zararlardan uygulama geliştiricisi sorumlu değildir.</p>
             </div>
         """, unsafe_allow_html=True)
 
