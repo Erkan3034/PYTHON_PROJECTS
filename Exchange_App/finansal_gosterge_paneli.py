@@ -328,7 +328,7 @@ def main():
     # Footer
     st.markdown("""
         <div class="footer">
-            <p>Developed By: KAAN Turgut | © 2025 Tüm hakları saklıdır.</p>
+            <p>Developed By: Erkan Turgut | © 2025 Tüm hakları saklıdır.</p>
             <p><a href="mailto:turguterkan55@gmail.com">İletişim</a> | <a href="https://github.com/Erkan3034">GitHub</a></p>
         </div>
     """, unsafe_allow_html=True)
