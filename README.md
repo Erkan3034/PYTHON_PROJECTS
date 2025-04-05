@@ -5,12 +5,12 @@ Bu depoda, Python programlama dilinde geliştirdiğim proje ve egzersiz çalış
 
 ### 📂 İçerik
 Python syntax’ından başlayarak, veri yapıları, dosya işlemleri, Tkinter ile arayüz tasarımı, web scraping, veri analizi ve makine öğrenmesi gibi çeşitli konuları kapsayan projeler.  
-🔗 [Tüm proje listesini görüntüle]([https://github.com/Erkan3034/Python_Projects])  
+🔗 [Tüm proje listesini görüntüle](https://github.com/Erkan3034/Python_Projects)  
 
 ### 🌟 Öne Çıkan Proje
 - **Canlı Döviz Çevirici ve Portföy Hesaplama Uygulaması**:  
   Streamlit arayüzü ile geliştirilmiş bu uygulama, Numpy, Pandas, Requests ve BeautifulSoup (BS4) modüllerini kullanarak canlı döviz çevirisi ve portföy hesaplama işlemleri sunar.  
-  **🔗 [Projeyi inceleyin]([https://github.com/kullanici_adi/doviz-uygulamasi](https://doviz-info.streamlit.app/?fbclid=PAZXh0bgNhZW0CMTEAAabQKGK5shDZjKL6Ab4ZqCEzYq7YyFuEBgYTabdtMdTyQ8VMBKLV-H_z4x4_aem_XFKM2quJcrKq9K-eYoEDSA)
+  **🔗 [Projeyi inceleyin](https://doviz-info.streamlit.app/?fbclid=PAZXh0bgNhZW0CMTEAAabQKGK5shDZjKL6Ab4ZqCEzYq7YyFuEBgYTabdtMdTyQ8VMBKLV-H_z4x4_aem_XFKM2quJcrKq9K-eYoEDSA)
 
  
 
