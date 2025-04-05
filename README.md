@@ -5,7 +5,7 @@ Bu depoda, Python programlama dilinde geliştirdiğim proje ve egzersiz çalış
 
 ### 📂 İçerik
 Python syntax’ından başlayarak, veri yapıları, dosya işlemleri, Tkinter ile arayüz tasarımı, web scraping, veri analizi ve makine öğrenmesi gibi çeşitli konuları kapsayan projeler.  
-🔗 [Tüm proje listesini görüntüle](/Python_Projects)  
+🔗 [Tüm proje listesini görüntüle]([/Python_Projects](https://github.com/Erkan3034/Python_Projects))  
 
 ### 🌟 Öne Çıkan Proje
 - **Canlı Döviz Çevirici ve Portföy Hesaplama Uygulaması**:  
