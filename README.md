@@ -1,5 +1,3 @@
-**Python Proje ve Egzersiz Çalışmaları**
-
 ---
 
 ## Python Proje ve Egzersiz Çalışmaları 🐍
