@@ -1,5 +1,4 @@
 ---
-
 ## Python Proje ve Egzersiz Çalışmaları 🐍
 
 Bu depoda, Python programlama dilinde geliştirdiğim proje ve egzersiz çalışmalarımı bulabilirsiniz. Amacım, Python’un temel kavramlarını öğrenmek ve pratik yaparak programlama becerilerimi geliştirmek.
